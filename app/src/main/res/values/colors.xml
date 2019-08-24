@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+<<<<<<< HEAD
     <color name="colorPrimary">#2c3e50</color>
     <color name="colorPrimaryDark">#0494A8</color>
+=======
+    <color name="colorPrimary">#0984e3</color>
+    <color name="colorPrimaryDark">#12CBC4</color>
+>>>>>>> remotes/origin/branch_1
     <color name="colorAccent">#FF0B0B</color>
 </resources>
